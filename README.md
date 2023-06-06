@@ -13,12 +13,12 @@ Hello, I'm Zeeshan<br>〰〰〰〰〰〰〰〰〰<br>- ♂️ Pronouns (He/His/H
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thezeeshann&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thezeeshann&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thezeeshann&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
+ -->
+<!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=thezeeshann&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+ -->
 ---
 [![](https://visitcount.itsvg.in/api?id=thezeeshann&icon=5&color=0)](https://visitcount.itsvg.in)
 
