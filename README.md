@@ -2,8 +2,8 @@
 ## Hello, I'm Zeeshan<br>
 > A coder who is passionate about web technologies and open source
 
-### I am a...
-I’m currently working on technologies based on Javascript. Technologies such as ReactJS, NextJS, and NodeJS. Looking to collaborate on open source contribution. BCA Student, Full Stack Developer.
+### I am...
+currently working on technologies based on Javascript. Technologies such as ReactJS, NextJS, and NodeJS. Looking to collaborate on open source contribution. BCA Student, Full Stack Developer.
 
 ### Where to find me
 [My Portfolio](https://github.com/thezeeshann) ·
