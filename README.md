@@ -5,22 +5,14 @@
 
 #### Me❗
 - 💻 I'm currently working with  technologies based on Javascript.
-- 🌱 I'm constantly learning and exploring new technologies.
 - 💬 Ask me about anything related to ReactJS, or NodeJS.
 - 📫 You can reach me via info.zeeshann@gmail.com.
-
 
 ### Programming Languages 
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python&dark" />
 
-### Libraries & Frameworks
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&dark" />
-
-### Databases 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres&dark" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,linux,aws,docker&dark" />
+## My Tech Stack 
+<img src="https://skillicons.dev/icons?i=git,github,linux,aws,docker,tailwind,react,nextjs,nodejs,express,django,mongodb,postgres,prisma,redis,radix&dark" />
 
 <div>
   <img alt="Github status" src="https://github-readme-stats.vercel.app/api?username=thezeeshann&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200" />
