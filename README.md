@@ -8,11 +8,8 @@
 - 💬 Ask me about anything related to ReactJS, or NodeJS.
 - 📫 You can reach me via info.zeeshann@gmail.com.
 
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python&dark" />
-
-### Tech Stack
-<img src="https://skillicons.dev/icons?i=git,github,linux,aws,docker,tailwind,react,nextjs,nodejs,express,django,mongodb,postgres,prisma,redis,radix&dark" />
+### My Tech Stack
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python,git,github,linux,aws,docker,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,django,mongodb,postgres,prisma,redis,radix&dark&perline=11" />
 <div>
   <img alt="Github status" src="https://github-readme-stats.vercel.app/api?username=thezeeshann&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="200" />
   <img  alt="Github langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezeeshann&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200" />
