@@ -1,4 +1,4 @@
-[My Portfolio](https://thezeeshann.github.io/) ·
+[Portfolio](https://thezeeshann.github.io/) ·
 [LinkedIn](https://www.linkedin.com/in/thezeeshannn) ·
 [Twitter](https://twitter.com/thezeeshann) ·
 [E-Mail](info.zeeshann@gmail.com)
