@@ -3,7 +3,7 @@
 [Twitter](https://twitter.com/thezeeshann) ·
 [E-Mail](info.zeeshann@gmail.com)
 
-#### Me❗
+
 - 💻 I'm currently working with  technologies based on Javascript.
 - 💬 Ask me about anything related to ReactJS, or NodeJS.
 - 📫 You can reach me via info.zeeshann@gmail.com.
