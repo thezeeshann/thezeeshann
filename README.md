@@ -3,7 +3,9 @@
 
 ### Hey, I'm Zeeshan 👋
 
-I'm a full-stack web & mobile developer 
+- I'm a  full-stack web & mobile developer
+- I'm currently working with  technologies based on Javascript.
+- You can reach me via info.zeeshann@gmail.com.
 
 ## 📫 Contact
 
