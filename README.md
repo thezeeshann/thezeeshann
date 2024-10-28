@@ -9,8 +9,7 @@ I'm a full-stack web & mobile developer
 
 [Portfolio](https://thezeeshann.github.io/) ·
 [LinkedIn](https://www.linkedin.com/in/thezeeshannn) ·
-[Twitter](https://twitter.com/thezeeshann) ·
-[E-Mail](info.zeeshann@gmail.com)
+[Twitter](https://twitter.com/thezeeshann)
 
 ##  ⚡ Tech Stack
 
