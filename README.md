@@ -3,8 +3,9 @@
 
 ### Hey, I'm Zeeshan 👋
 
-- I'm a  full-stack web & mobile developer
-- I'm currently working with  technologies based on Javascript.
+- Full-stack Engineer web & mobile
+- I'm currently working with technologies based on JavaScript.
+- Learning Golang, Docker, Kubernetes for backend development,
 - You can reach me via info.zeeshann@gmail.com.
 
 ## 📫 Contact
